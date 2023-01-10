@@ -24,7 +24,7 @@ body {
 .nav-link::after {
   content: "";
   width: 0%;
-  height: 2px;
+  height: 1px;
   background-color: #f9fafb;
   position: absolute;
   left: 50%;
